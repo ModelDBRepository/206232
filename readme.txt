@@ -8,3 +8,7 @@ This model was contributed by K. Kumaravelu.
 
 The model was run on the Duke Shared Cluster Resource with the
 supplied q file.
+
+20161212 Karthik Kumaravelu supplied a minor typo update where some
+multiplicative forms (t_vec-t_d_...) were removed from bi-exponential
+synaptic functions.
